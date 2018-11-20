@@ -1,0 +1,1 @@
+console.log('file load from external javascript file');
